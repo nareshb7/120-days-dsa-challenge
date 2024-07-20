@@ -15,8 +15,8 @@ This repository documents my journey of solving one DSA problem every day for 12
 
 ## Progress
 
-- [Day 1](Day01/)
-- [Day 2](Day02/)
+- [Day 1 - Two Sum](Day01/) 
+- [Day 2 - Best Time to Buy and Sell Stock](Day02/)
 
 ## How to Use
 

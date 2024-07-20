@@ -16,13 +16,15 @@ This repository documents my journey of solving one DSA problem every day for 12
 ## Progress
 
 - [Day 1](Day01/)
+- [Day 2](Day02/)
 
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/nareshb7/120-days-dsa-challenge.git`
 2. Navigate to the desired day: `cd DayXX`
 3. Open the `Problem.md` to read the problem statement.
-4. Review the solution in `Solution.java`.
+4. Review the solution in `Solution.js`.
 5. Read any additional notes in `Notes.md`.
+6. To run program use the command `node Solution.js`.
 
 Feel free to fork this repository and join me on this journey!

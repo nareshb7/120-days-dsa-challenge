@@ -20,12 +20,12 @@
 Algorithmic Efficiency
 - Understanding Time Complexity:
 
--  Comparing different approaches (brute force vs. optimized).
--  Recognizing the importance of reducing time complexity for large input sizes.
+  Comparing different approaches (brute force vs. optimized).
+  Recognizing the importance of reducing time complexity for large input sizes.
 
 
 - Space Complexity:
 
--  Appreciating solutions that use constant space and understanding how to minimize extra space usage.
+   Appreciating solutions that use constant space and understanding how to minimize extra space usage.
 
  

@@ -1,4 +1,4 @@
-# Notes for Day 01: Best Time to Buy and Sell Stock
+# Notes for Day 02: Best Time to Buy and Sell Stock
 
 
 ## Approach

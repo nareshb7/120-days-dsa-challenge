@@ -18,6 +18,8 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 1 - Two Sum](Day01/) 
 - [Day 2 - Best Time to Buy and Sell Stock](Day02/)
 - [Day 3 - Find Kth largest element in an array](Day03/)
+- [Day 4 - Rotate Array](Day04/)
+
 
 ## How to Use
 

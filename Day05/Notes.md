@@ -4,9 +4,11 @@
 
 - We are using `two pointer approach` to iterate through the array
 - we need to check only alpha numeric values so, create a `isAlphaNum(c)` helper function to check each value
-- then tale two variables `left =0` and `right = len-1`, 
-- now by using `while loop` , we are checking the elements two pointer values are matching or not, so each iteration we have to `incerement the left value and `decrement the right` value
+- then take two variables `left =0` and `right = len-1`, 
+- now by using `while loop` , we are checking the elements two pointer values are matching or not, so each iteration we have to `incerement the left value` and `decrement the right` value
+- if the current `value` is not a `alphaNumeric` then we have to update the `pointer` value to the `next position`
 - so in some cases if u `found` the value is `not matching` with the other end val then it must `not be the palindrome` then we can return `false`
+- if the `while loop doesn't return false`, then it means string is a `palindrome`, we can `return true`
 
 ## Complexity
 

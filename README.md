@@ -20,6 +20,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 3 - Find Kth largest element in an array](Day03/)
 - [Day 4 - Rotate Array](Day04/)
 - [Day 5 - Valid Palindrome](Day05/)
+- [Day 6 - Reverse String](Day06/)
 
 
 ## How to Use

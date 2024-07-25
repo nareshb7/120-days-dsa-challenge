@@ -21,6 +21,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 4 - Rotate Array](Day04/)
 - [Day 5 - Valid Palindrome](Day05/)
 - [Day 6 - Reverse String](Day06/)
+- [Day 7 - Implement strStr() (Find the Index of the First Occurrence in a String)](Day07/)
 
 
 ## How to Use

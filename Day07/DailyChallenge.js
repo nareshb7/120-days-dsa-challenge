@@ -52,6 +52,6 @@ var sortArray = function(nums) {
 };
 
 
-// Sort An Array with O (n lon n) T.C
+// 912. Sort An Array with O (n lon n) T.C
 const nums = [5,7,3,6,2]
 console.log("Sorted Array::", sortArray(nums))

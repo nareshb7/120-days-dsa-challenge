@@ -15,3 +15,6 @@ Given `two` strings `needle` and `haystack`, return the `index` of the `first oc
    - Input: haystack = "leetcode", needle = "leeto"
    - Output: -1
    - Explanation: "leeto" did not occur in "leetcode", so we return -1.
+
+
+# Daily Challenge: 912. Sort An Array

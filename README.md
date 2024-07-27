@@ -23,6 +23,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 6 - Reverse String](Day06/)
 - [Day 7 - Implement strStr() (Find the Index of the First Occurrence in a String)](Day07/)
 - [Day 8 - Subarray Sum Equals K (Prefix Sums)](Day08/)
+- [Day 9 - Longest Substring Without Repeating Characters](Day09/)
 
 
 ## How to Use

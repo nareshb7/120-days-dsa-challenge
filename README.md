@@ -15,15 +15,16 @@ This repository documents my journey of solving one DSA problem every day for 12
 
 ## Progress
 
-- [Day 1 - Two Sum](Day01/) 
-- [Day 2 - Best Time to Buy and Sell Stock](Day02/)
-- [Day 3 - Find Kth largest element in an array](Day03/)
-- [Day 4 - Rotate Array](Day04/)
-- [Day 5 - Valid Palindrome](Day05/)
-- [Day 6 - Reverse String](Day06/)
-- [Day 7 - Implement strStr() (Find the Index of the First Occurrence in a String)](Day07/)
-- [Day 8 - Subarray Sum Equals K (Prefix Sums)](Day08/)
-- [Day 9 - Longest Substring Without Repeating Characters](Day09/)
+- [Day 01 - Two Sum](Day01/) 
+- [Day 02 - Best Time to Buy and Sell Stock](Day02/)
+- [Day 03 - Find Kth largest element in an array](Day03/)
+- [Day 04 - Rotate Array](Day04/)
+- [Day 05 - Valid Palindrome](Day05/)
+- [Day 06 - Reverse String](Day06/)
+- [Day 07 - Implement strStr() (Find the Index of the First Occurrence in a String)](Day07/)
+- [Day 08 - Subarray Sum Equals K (Prefix Sums)](Day08/)
+- [Day 09 - Longest Substring Without Repeating Characters](Day09/)
+- [Day 10 - Container With Most Water (Two Pointer Technique)](Day10/)
 
 
 ## How to Use

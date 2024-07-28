@@ -19,10 +19,8 @@
             b_pointer--;
         }
     }
-
     return max_area;
 };
 
 const height = [1,8,6,2,5,4,8,3,7]
-// Output: 49
-console.log("Max area: ", maxArea(height))
+console.log("Max area: ", maxArea(height)) // Output: 49

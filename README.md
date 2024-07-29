@@ -25,6 +25,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 08 - Subarray Sum Equals K (Prefix Sums)](Day08/)
 - [Day 09 - Longest Substring Without Repeating Characters](Day09/)
 - [Day 10 - Container With Most Water (Two Pointer Technique)](Day10/)
+- [Day 11 - Find Minimum in Rotated Sorted Array (Binary Search)](Day11/)
 
 
 ## How to Use

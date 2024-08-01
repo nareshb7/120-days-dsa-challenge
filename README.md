@@ -28,6 +28,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 11 - Find Minimum in Rotated Sorted Array (Binary Search)](Day11/)
 - [Day 12 - Search in Rotated Sorted Array (Binary Search)](Day12/)
 - [Day 13: Two Sum II - Input Array Is Sorted(Hash Table)](Day13/)
+- [Day 14: Group Anagrams (Hash Table)](Day14/)
 
 
 ## How to Use

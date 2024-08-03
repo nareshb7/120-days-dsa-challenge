@@ -1,30 +1,28 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
- var minSwaps = function(nums) {
-  const totalOnes = nums.reduce((acc, num) => acc+num, 0)
-  const n = nums.length;
-  const extended = nums.concat(nums)
-  let currentOnes =0
-  for (let i=0; i< totalOnes ; i++ ) {
-      currentOnes+= extended[i]
+var canBeEqual = function(targetArray, currentArray) {
+    if (targetArray.length !== currentArray.length) {
+      return false;
   }
-  let maxOnes = currentOnes
-  for (let i=1;i<n; i++ ) {
-      currentOnes = currentOnes - extended[i-1] + extended[i-1+ totalOnes]
-      maxOnes = Math.max(currentOnes, maxOnes)
+
+  const count = new Array(1001).fill(0);
+  for (let i = 0; i < targetArray.length; i++) {
+      count[targetArray[i]]++;
+      count[currentArray[i]]--;
   }
-  return totalOnes- maxOnes
+
+  for (let c of count) {
+      if (c !== 0) {
+          return false;
+      }
+  }
+
+  return true;
 };
-
-//2134. Minimum Swaps to Group All 1's Together II
-
-const nums = [0,1,0,1,1,0,0]
-console.log("Min Swaps::", minSwaps(nums)) // Output: 1
-// Explanation: Here are a few of the ways to group all the 1's together:
-// [0,0,1,1,1,0,0] using 1 swap.
-// [0,1,1,1,0,0,0] using 1 swap.
-// [1,1,0,0,0,0,1] using 2 swaps (using the circular property of the array).
-// There is no way to group all 1's together with 0 swaps.
-// Thus, the minimum number of swaps required is 1.
+//1460. Make Two Arrays Equal by Reversing Subarrays
+const target = [1,2,3,4], arr = [2,4,1,3]
+console.log("Is subarrays are equal::", canBeEqual(target, arr))
+// Output: true
+// Explanation: You can follow the next steps to convert arr to target:
+// 1- Reverse subarray [2,4,1], arr becomes [1,4,2,3]
+// 2- Reverse subarray [4,2], arr becomes [1,2,4,3]
+// 3- Reverse subarray [4,3], arr becomes [1,2,3,4]
+// There are multiple ways to convert arr to target, this is not the only way to do so.

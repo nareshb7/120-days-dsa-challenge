@@ -30,6 +30,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 13 - Two Sum II - Input Array Is Sorted(Hash Table)](Day13/)
 - [Day 14 - Group Anagrams (Hash Table)](Day14/)
 - [Day 15 - String to Integer (atoi)](Day15/)
+- [Day 16 - Longest Common Prefix](Day16/)
 
 
 ## How to Use

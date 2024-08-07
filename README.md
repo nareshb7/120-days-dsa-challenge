@@ -34,6 +34,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 17 - Valid Parentheses](Day17/)
 - [Day 18 - Minimum Window Substring](Day18/)
 - [Day 19 - Integer to Roman](Day19/)
+- [Day 20 - Roman to Integer](Day20/)
 
 
 ## How to Use

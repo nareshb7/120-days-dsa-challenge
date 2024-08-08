@@ -35,6 +35,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 18 - Minimum Window Substring](Day18/)
 - [Day 19 - Integer to Roman](Day19/)
 - [Day 20 - Roman to Integer](Day20/)
+- [Day 21 - Longest Palindromic Substring](Day21/)
 
 
 ## How to Use

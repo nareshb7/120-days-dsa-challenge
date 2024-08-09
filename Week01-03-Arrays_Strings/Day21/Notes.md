@@ -1,4 +1,4 @@
-# Notes for Day 20: Roman to Integer
+# Notes for Day 21: Longest Palindromic Substring
 
 ## Approach
 - Check if the string is empty: If it is, return an empty string.

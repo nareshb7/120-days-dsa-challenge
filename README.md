@@ -38,7 +38,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 20 - Roman to Integer](Week01-03-Arrays_Strings/Day20/)
 - [Day 21 - Longest Palindromic Substring](Week01-03-Arrays_Strings/Day21/)
 ### Week 04-06 LinkedList and Stacks
-- [Day 22: Reverse Linked List](Day22/)
+- [Day 22: Reverse Linked List](Week04-06-LinkedList_Stacks/Day22/)
 
 
 ## How to Use

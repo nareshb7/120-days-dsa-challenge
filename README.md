@@ -15,6 +15,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 
 ## Progress
 
+### Week 01-03 Arrays and Strings
 - [Day 01 - Two Sum](Day01/) 
 - [Day 02 - Best Time to Buy and Sell Stock](Day02/)
 - [Day 03 - Find Kth largest element in an array](Day03/)
@@ -36,6 +37,8 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 19 - Integer to Roman](Day19/)
 - [Day 20 - Roman to Integer](Day20/)
 - [Day 21 - Longest Palindromic Substring](Day21/)
+### Week 04-06 LinkedList and Stacks
+- [Day 22: Reverse Linked List](Day22/)
 
 
 ## How to Use

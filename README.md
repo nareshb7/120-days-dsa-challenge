@@ -15,7 +15,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 
 ## Progress
 
-- [Day 01 - Two Sum](Day01/) 
+- [Day 01 - Two Sum](Week01-03(Arrays and Strings)/Day01/) 
 - [Day 02 - Best Time to Buy and Sell Stock](Day02/)
 - [Day 03 - Find Kth largest element in an array](Day03/)
 - [Day 04 - Rotate Array](Day04/)

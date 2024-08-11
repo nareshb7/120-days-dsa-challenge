@@ -40,6 +40,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 ### Week 04-06 LinkedList and Stacks
 - [Day 22: Reverse Linked List](Week04-06-LinkedList_Stacks/Day22/)
 - [Day 23: Linked List Cycle](Week04-06-LinkedList_Stacks/Day23/)
+- [Day 24: Merge Two Sorted Lists](Week04-06-LinkedList_Stacks/Day24/)
 
 
 ## How to Use

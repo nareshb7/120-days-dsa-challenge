@@ -45,6 +45,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 26: Reorder List](Week04-06-LinkedList_Stacks/Day26/)
 - [Day 27: Simplify Path](Week04-06-LinkedList_Stacks/Day27/)
 - [Day 28: Min Stack](Week04-06-LinkedList_Stacks/Day28/)
+- [- [Day 28: Min Stack](Week04-06-LinkedList_Stacks/Day28/)](Week04-06-LinkedList_Stacks/Day29/)
 
 
 ## How to Use

@@ -1,4 +1,4 @@
-# Day 28: Implement Stack using Queues
+# Day 29: Implement Stack using Queues
 
 ## Problem Statement
 - Implement a last-in-first-out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal stack (push, top, pop, and empty).

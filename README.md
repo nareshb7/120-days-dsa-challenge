@@ -50,6 +50,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 31: Basic Calculator](Week04-06-LinkedList_Stacks/Day31/)
 - [Day 32: Design Circular Queue](Week04-06-LinkedList_Stacks/Day32/)
 - [Day 33: LRU Cache](Week04-06-LinkedList_Stacks/Day33/)
+- [Day 34: Decode String](Week04-06-LinkedList_Stacks/Day34/)
 
 
 ## How to Use

@@ -51,6 +51,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 32: Design Circular Queue](Week04-06-LinkedList_Stacks/Day32/)
 - [Day 33: LRU Cache](Week04-06-LinkedList_Stacks/Day33/)
 - [Day 34: Decode String](Week04-06-LinkedList_Stacks/Day34/)
+- [Day 35: Flatten Nested List Iterator](Week04-06-LinkedList_Stacks/Day35/)
 
 
 ## How to Use

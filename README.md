@@ -54,6 +54,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 35: Flatten Nested List Iterator](Week04-06-LinkedList_Stacks/Day35/)
 - [Day 36: Design a Stack With Increment Operation](Week04-06-LinkedList_Stacks/Day36/)
 - [Day 37: Asteroid Collision](Week04-06-LinkedList_Stacks/Day37/)
+- [Day 38: Car Fleet](Week04-06-LinkedList_Stacks/Day38/)
 
 
 ## How to Use

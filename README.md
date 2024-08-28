@@ -57,6 +57,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 38: Car Fleet](Week04-06-LinkedList_Stacks/Day38/)
 - [Day 39: Daily Temperatures](Week04-06-LinkedList_Stacks/Day39/)
 - [Day 40: Online Stock Span](Week04-06-LinkedList_Stacks/Day40/)
+- [Day 41: Implement Queue using Stacks](Week04-06-LinkedList_Stacks/Day41/)
 
 
 ## How to Use

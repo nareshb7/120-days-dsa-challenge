@@ -10,7 +10,7 @@ StockSpanner.prototype.next = function (price) {
     this.stack.pop();
   }
 
-  let span;
+  let span; // last index val is the span of stock
   if (this.stack.length === 0) {
     span = this.index + 1;
   } else {

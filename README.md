@@ -58,6 +58,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 39: Daily Temperatures](Week04-06-LinkedList_Stacks/Day39/)
 - [Day 40: Online Stock Span](Week04-06-LinkedList_Stacks/Day40/)
 - [Day 41: Implement Queue using Stacks](Week04-06-LinkedList_Stacks/Day41/)
+- [Day 42: Basic Calculator II](Week04-06-LinkedList_Stacks/Day42/)
 
 
 ## How to Use

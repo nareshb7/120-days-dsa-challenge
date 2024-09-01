@@ -1,6 +1,6 @@
 # 120 Days DSA Challenge
 
-Welcome to my 120-day Data Structures and Algorithms (DSA) challenge repository! 
+Welcome to my 120-day Data Structures and Algorithms (DSA) challenge repository!
 
 ## Overview
 
@@ -16,7 +16,8 @@ This repository documents my journey of solving one DSA problem every day for 12
 ## Progress
 
 ### Week 01-03 Arrays and Strings
-- [Day 01 - Two Sum](Week01-03-Arrays_Strings/Day01/) 
+
+- [Day 01 - Two Sum](Week01-03-Arrays_Strings/Day01/)
 - [Day 02 - Best Time to Buy and Sell Stock](Week01-03-Arrays_Strings/Day02/)
 - [Day 03 - Find Kth largest element in an array](Week01-03-Arrays_Strings/Day03/)
 - [Day 04 - Rotate Array](Week01-03-Arrays_Strings/Day04/)
@@ -37,7 +38,9 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 19 - Integer to Roman](Week01-03-Arrays_Strings/Day19/)
 - [Day 20 - Roman to Integer](Week01-03-Arrays_Strings/Day20/)
 - [Day 21 - Longest Palindromic Substring](Week01-03-Arrays_Strings/Day21/)
+
 ### Week 04-06 LinkedList and Stacks
+
 - [Day 22: Reverse Linked List](Week04-06-LinkedList_Stacks/Day22/)
 - [Day 23: Linked List Cycle](Week04-06-LinkedList_Stacks/Day23/)
 - [Day 24: Merge Two Sorted Lists](Week04-06-LinkedList_Stacks/Day24/)
@@ -59,10 +62,12 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 40: Online Stock Span](Week04-06-LinkedList_Stacks/Day40/)
 - [Day 41: Implement Queue using Stacks](Week04-06-LinkedList_Stacks/Day41/)
 - [Day 42: Basic Calculator II](Week04-06-LinkedList_Stacks/Day42/)
+
 ### Week 07-09 Trees and Graphs
+
 - [Day 43: Maximum Depth of Binary Tree](Week07-09-Trees_Graphs/Day43/)
 - [Day 44: Symmetric Tree](Week07-09-Trees_Graphs/Day44/)
-
+- [Day 45: Invert Binary Tree](Week07-09-Trees_Graphs/Day45/)
 
 ## How to Use
 

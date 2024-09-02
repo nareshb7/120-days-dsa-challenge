@@ -68,6 +68,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 43: Maximum Depth of Binary Tree](Week07-09-Trees_Graphs/Day43/)
 - [Day 44: Symmetric Tree](Week07-09-Trees_Graphs/Day44/)
 - [Day 45: Invert Binary Tree](Week07-09-Trees_Graphs/Day45/)
+- [Day 46: Day 46: Binary Tree Paths](Week07-09-Trees_Graphs/Day46/)
 
 ## How to Use
 

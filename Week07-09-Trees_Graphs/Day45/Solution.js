@@ -24,5 +24,5 @@ var invertTree = function (root) {
 };
 
 const root = [4, 2, 7, 1, 3, 6, 9];
-console.log("Inverted Tree::", arrayToBinaryTree(root));
+console.log("Inverted Tree::", invertTree(arrayToBinaryTree(root)));
 // Output: [4,7,2,9,6,3,1]

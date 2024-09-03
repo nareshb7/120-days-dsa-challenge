@@ -13,8 +13,8 @@
 
 - `Time Complexity: O(n)` The algorithm visits each node of the binary tree exactly once, where n is the total number of nodes in the tree.
 - `Space Complexity: O(h)` The space complexity is determined by the depth of the recursion stack.
-In the worst case, the depth of the recursion stack will be equal to the height of the tree h.
-For a balanced binary tree, the height h is O(log n), but in the worst case (e.g., a skewed tree), h could be O(n)
+  In the worst case, the depth of the recursion stack will be equal to the height of the tree h.
+  For a balanced binary tree, the height h is O(log n), but in the worst case (e.g., a skewed tree), h could be O(n)
 
 ## Key Learnings:
 

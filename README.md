@@ -70,6 +70,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 45: Invert Binary Tree](Week07-09-Trees_Graphs/Day45/)
 - [Day 46: Binary Tree Paths](Week07-09-Trees_Graphs/Day46/)
 - [Day 47: Sum of Left Leaves](Week07-09-Trees_Graphs/Day47/)
+- [Day 48: Lowest Common Ancestor of a Binary Search Tree](Week07-09-Trees_Graphs/Day48/)
 
 ## How to Use
 

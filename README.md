@@ -62,7 +62,6 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 40: Online Stock Span](Week04-06-LinkedList_Stacks/Day40/)
 - [Day 41: Implement Queue using Stacks](Week04-06-LinkedList_Stacks/Day41/)
 - [Day 42: Basic Calculator II](Week04-06-LinkedList_Stacks/Day42/)
-- [Day 49: Binary Tree Level Order Traversal](Week04-06-LinkedList_Stacks/Day49/)
 
 
 ### Week 07-09 Trees and Graphs
@@ -74,6 +73,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 47: Sum of Left Leaves](Week07-09-Trees_Graphs/Day47/)
 - [Day 48: Lowest Common Ancestor of a Binary Search Tree](Week07-09-Trees_Graphs/Day48/)
 - [Day 49: Binary Tree Level Order Traversal](Week07-09-Trees_Graphs/Day49/)
+- [Day 50: Validate Binary Search Tree](Week07-09-Trees_Graphs/Day50/)
 
 ## How to Use
 

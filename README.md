@@ -74,6 +74,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 48: Lowest Common Ancestor of a Binary Search Tree](Week07-09-Trees_Graphs/Day48/)
 - [Day 49: Binary Tree Level Order Traversal](Week07-09-Trees_Graphs/Day49/)
 - [Day 50: Validate Binary Search Tree](Week07-09-Trees_Graphs/Day50/)
+- [Day 51: Binary Tree Inorder Traversal](Week07-09-Trees_Graphs/Day51/)
 
 ## How to Use
 

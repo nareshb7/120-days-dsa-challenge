@@ -2,11 +2,11 @@
 
 ## Approach
 
-- Traversal of the Tree: For each node in the binary tree, check if the linked list starting from head matches a downward path in the tree.
-- Recursive Check for Sub-path: For each node, compare it with the current node of the linked list. If they match, recursively check the left and right subtrees for the next node in the linked list.
-- Handling Base Cases: If you reach the end of the linked list (head == null), it means the list is found as a sub-path, and you return true.
-  If you reach a null tree node but haven’t completed the linked list, return false.
-- Tree Traversal: If the linked list does not match the current tree node, recursively check the left and right subtrees to see if the sub-path starts elsewhere
+- We can achieve inorder traversal recursively by:
+- Visiting the left subtree.
+- Adding the current node's value to the result.
+- Visiting the right subtree.
+- A helper function is used to recursively visit nodes in the correct order.
 
 ## Complexity
 

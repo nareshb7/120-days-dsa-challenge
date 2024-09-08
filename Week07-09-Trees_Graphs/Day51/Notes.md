@@ -10,19 +10,13 @@
 
 ## Complexity
 
-- `Time Complexity:`
-  In the worst case, for each node in the binary tree, you might need to traverse the entire linked list, which would result in a time complexity of O(N \* M), where:
-  N is the number of nodes in the binary tree.
-  M is the number of nodes in the linked list.
-  This happens when the tree and the list are long, and you have to check many nodes before finding a sub-path or confirming there isn't one.
-- `Space Complexity:`
-  The space complexity is determined by the depth of the recursion stack.
-  In the worst case (for a skewed tree), the recursion depth could be O(N), where N is the number of nodes in the tree.
-  Additionally, for every match, a second recursive call is made for the linked list, which can go as deep as O(M) in the worst case. However, this only applies to one path at a time, so the overall space complexity is O(N + M).
+- `Time Complexity: O(n)` Each node is visited exactly once, where n is the number of nodes in the tree.
+- `Space Complexity: O(h)` The space complexity depends on the depth of the recursion stack, which is proportional to the tree's height, h. In the worst case (for a skewed tree), this can be O(n)
 
 ## Key Learnings:
 
-- `Divide-and-Conquer Strategy:` The recursive approach naturally fits the divide-and-conquer technique, breaking the problem into smaller subproblems — checking if the sub-path starts from the current node, and if not, looking for it in the left and right subtrees.
-- `Early Exit in Recursive Calls:` As soon as you find the linked list as a sub-path, you can exit early, which prevents redundant traversals.
-- `Handling Linked Lists and Trees Together:` This problem helps you practice working with two recursive data structures (a linked list and a binary tree) simultaneously, showing how to synchronize recursion on two different structures.
-- `Base Case Design:` Correct base cases are crucial in recursion to ensure termination and correctness. For instance, checking if the linked list is completely matched (head == null) or if the binary tree traversal reaches a null node.
+- `Recursive Traversal Patterns:` Inorder traversal follows the recursive pattern of traversing left, visiting the current node and then traversing right. This pattern ensures that nodes are visited in the correct order.
+- `Divide-and-Conquer Approach:` The recursive method naturally fits the divide-and-conquer strategy, as we divide the tree into smaller subproblems and solve them recursively.
+- `Handling Edge Cases:` An empty tree returns an empty list.
+  Trees with only one node simply return the value of that node.
+- `Tree Structure Consideration:` Inorder traversal can reveal structural information about the tree, such as whether it's a valid BST (in which case the output will be sorted)

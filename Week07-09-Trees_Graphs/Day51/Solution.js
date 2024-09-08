@@ -11,6 +11,7 @@ const {arrayToBinaryTree} = require("..")
  * @param {TreeNode} root
  * @return {number[]}
  */
+// Left -> Root -> Right
 var inorderTraversal = function (root) {
   const result = [];
   const traverse = (node) => {

@@ -6,6 +6,9 @@
  *     this.right = (right===undefined ? null : right)
  * }
  */
+
+const { arrayToBinaryTree } = require("..");
+
 /**
  * @param {TreeNode} root
  * @return {number[][]}
@@ -30,3 +33,7 @@ var zigzagLevelOrder = function (root) {
   }
   return result;
 };
+
+const root = [3,9,20,null,null,15,7]
+console.log("ZigZag Order:::", zigzagLevelOrder(arrayToBinaryTree(root)))
+// Output: [[3],[20,9],[15,7]]

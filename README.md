@@ -78,6 +78,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 52: Binary Tree Preorder Traversal](Week07-09-Trees_Graphs/Day52/)
 - [Day 53: Binary Tree Postorder Traversal](Week07-09-Trees_Graphs/Day53/)
 - [Day 54: Binary Tree Zigzag Level Order Traversal](Week07-09-Trees_Graphs/Day54/)
+- [Day 55: Maximum Binary Tree](Week07-09-Trees_Graphs/Day55/)
 
 ## How to Use
 

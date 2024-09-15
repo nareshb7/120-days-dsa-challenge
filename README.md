@@ -81,7 +81,8 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 55: Maximum Binary Tree](Week07-09-Trees_Graphs/Day55/)
 - [Day 56: Construct Binary Tree from Preorder and Inorder Traversal](Week07-09-Trees_Graphs/Day56/)
 - [Day 57: Path Sum](Week07-09-Trees_Graphs/Day57)
-- [ Day 58: Find Mode in Binary Search Tree](Week07-09-Trees_Graphs/Day58)
+- [Day 58: Find Mode in Binary Search Tree](Week07-09-Trees_Graphs/Day58)
+- [Day 59: Number of Islands](Week07-09-Trees_Graphs/Day59)
 
 ## How to Use
 

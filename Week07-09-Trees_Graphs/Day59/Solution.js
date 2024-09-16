@@ -16,6 +16,10 @@ const dfs = (grid, row, col) => {
   dfs(grid, row, col + 1);
   dfs(grid, row, col - 1);
 };
+
+
+// we can try bfs also
+
 var numIslands = function (grid) {
   let count = 0;
   for (let row = 0; row < grid.length; row++) {

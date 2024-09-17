@@ -84,6 +84,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 58: Find Mode in Binary Search Tree](Week07-09-Trees_Graphs/Day58)
 - [Day 59: Number of Islands](Week07-09-Trees_Graphs/Day59)
 - [Day 60: Clone Graph](Week07-09-Trees_Graphs/Day60)
+- [Day 61: Course Schedule](Week07-09-Trees_Graphs/Day61)
 
 ## How to Use
 

@@ -86,6 +86,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 60: Clone Graph](Week07-09-Trees_Graphs/Day60)
 - [Day 61: Course Schedule](Week07-09-Trees_Graphs/Day61)
 - [Day 62: Minimum Height Trees](Week07-09-Trees_Graphs/Day62)
+- [Day 63: Word Ladder](Week07-09-Trees_Graphs/Day63)
 
 ## How to Use
 

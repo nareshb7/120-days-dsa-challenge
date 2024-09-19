@@ -2,10 +2,10 @@
 
 ## Approach
 
-- `Initialization:` Create two arrays: counts to store the degree (number of connections) of each node, and links to store XOR results of connections to help remove nodes later.
-- `Build the graph:` For each edge, update the counts array to track how many nodes each node is connected to.
-  Use XOR operation to store connections in the links array for efficient removal.
-- `Find the leaves:` Push all nodes with only one connection (i.e., leaves) into a queue Qu.
+- `Initialization:` Create two arrays: `counts` to store the degree (number of connections) of each node, and `links` to store XOR results of connections to help remove nodes later.
+- `Build the graph:` For each edge, update the `counts` array to track how many nodes each node is connected to.
+  Use XOR operation to store connections in the `links` array for efficient removal.
+- `Find the leaves:` Push all nodes with only one connection (i.e., leaves) into a queue `Qu`.
 - `Iterative removal of leaves:` Start a BFS-like process where in each iteration you remove the leaves (nodes with 1 connection) and update their neighbor's connection.
   Continue this process layer by layer, where the leaves of each layer are removed until you're left with 1 or 2 nodes.
 - `Track the distances:` For each node left after removing leaves, calculate its distance (height of the tree).

@@ -88,6 +88,10 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 62: Minimum Height Trees](Week07-09-Trees_Graphs/Day62)
 - [Day 63: Word Ladder](Week07-09-Trees_Graphs/Day63)
 
+### Week 10-11 Recursion and Dynamic Programming
+- [Day 64: Climbing Stairs (Recusrion)](Week10-11-Recursion_DP/Day64)
+
+
 ## How to Use
 
 1. Clone the repository: `git clone https://github.com/nareshb7/120-days-dsa-challenge.git`

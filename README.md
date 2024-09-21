@@ -90,6 +90,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 
 ### Week 10-11 Recursion and Dynamic Programming
 - [Day 64: Climbing Stairs (Recusrion)](Week10-11-Recursion_DP/Day64)
+- [Day 65: Unique Paths](Week10-11-Recursion_DP/Day65)
 
 
 ## How to Use

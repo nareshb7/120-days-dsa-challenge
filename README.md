@@ -92,6 +92,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 64: Climbing Stairs (Recusrion)](Week10-11-Recursion_DP/Day64)
 - [Day 65: Unique Paths](Week10-11-Recursion_DP/Day65)
 - [Day 66: Coin Change](Week10-11-Recursion_DP/Day66)
+- [Day 67: Longest Increasing Subsequence](Week10-11-Recursion_DP/Day67)
 
 
 ## How to Use

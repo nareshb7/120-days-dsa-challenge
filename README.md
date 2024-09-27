@@ -96,6 +96,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 68: House Robber](Week10-11-Recursion_DP/Day68)
 - [Day 69: House Robber II](Week10-11-Recursion_DP/Day69)
 - [Day 70: Partition Equal Subset Sum](Week10-11-Recursion_DP/Day70)
+- [Day 71: Edit Distance](Week10-11-Recursion_DP/Day71)
 
 
 ## How to Use

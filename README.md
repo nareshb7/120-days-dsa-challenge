@@ -99,6 +99,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 71: Edit Distance](Week10-11-Recursion_DP/Day71)
 - [Day 72 Decode Ways](Week10-11-Recursion_DP/Day72)
 - [Day 73: Jump Game](Week10-11-Recursion_DP/Day73)
+- [Day 74: Maximum Subarray](Week10-11-Recursion_DP/Day74)
 
 
 ## How to Use

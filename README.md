@@ -100,6 +100,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 72 Decode Ways](Week10-11-Recursion_DP/Day72)
 - [Day 73: Jump Game](Week10-11-Recursion_DP/Day73)
 - [Day 74: Maximum Subarray](Week10-11-Recursion_DP/Day74)
+- [Day 75: Word Break](Week10-11-Recursion_DP/Day75)
 
 
 ## How to Use

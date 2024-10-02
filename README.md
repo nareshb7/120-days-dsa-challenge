@@ -102,6 +102,9 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 74: Maximum Subarray](Week10-11-Recursion_DP/Day74)
 - [Day 75: Word Break](Week10-11-Recursion_DP/Day75)
 
+### Week12-Heaps_Tries
+- [Day 76: Kth Largest Element in a Stream](Week10-11-Recursion_DP/Day76)
+
 
 ## How to Use
 

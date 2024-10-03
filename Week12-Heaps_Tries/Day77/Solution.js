@@ -2,26 +2,50 @@
  * @param {string} s
  * @return {string}
  */
-var frequencySort = function (s) {
+// var frequencySort = function (s) {
+//   const freq = new Map();
+//   for (const ch of s) {
+//     freq.set(ch, (freq.get(ch) || 0) + 1);
+//   }
+
+//   const maxFreq = Math.max(...freq.values());
+//   const buckets = Array.from({ length: maxFreq + 1 }, () => []);
+  
+//   for (const [char, count] of freq.entries()) {
+//     buckets[count].push(char);
+//   }
+
+//   let str = "";
+//   for (let i = buckets.length - 1; i > 0; i--) {
+//     const charArr = buckets[i];
+//     for (const x of charArr) {
+//       str += x.repeat(i);
+//     }
+//   }
+//   return str;
+// };
+
+var frequencySort = function(s) {
+  // Step 1: Build frequency map
   const freq = new Map();
   for (const ch of s) {
-    freq.set(ch, (freq.get(ch) || 0) + 1);
+      freq.set(ch, (freq.get(ch) || 0) + 1);
   }
 
-  const maxFreq = Math.max(...freq.values());
-  const buckets = Array.from({ length: maxFreq + 1 }, () => []);
-  
+  // Step 2: Create a max heap based on frequency
+  const maxHeap = [];
   for (const [char, count] of freq.entries()) {
-    buckets[count].push(char);
+      maxHeap.push([char, count]);
+  }
+  
+  maxHeap.sort((a, b) => b[1] - a[1]);  // Sort by frequency
+
+  // Step 3: Construct the result string
+  let str = '';
+  for (const [char, count] of maxHeap) {
+      str += char.repeat(count);
   }
 
-  let str = "";
-  for (let i = buckets.length - 1; i > 0; i--) {
-    const charArr = buckets[i];
-    for (const x of charArr) {
-      str += x.repeat(i);
-    }
-  }
   return str;
 };
 

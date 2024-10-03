@@ -104,6 +104,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 
 ### Week12-Heaps_Tries
 - [Day 76: Kth Largest Element in a Stream](Week10-11-Recursion_DP/Day76)
+- [Day 77: Sort Characters By Frequency](Week10-11-Recursion_DP/Day77)
 
 
 ## How to Use

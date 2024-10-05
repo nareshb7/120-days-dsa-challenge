@@ -106,6 +106,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 76: Kth Largest Element in a Stream](Week10-11-Recursion_DP/Day76)
 - [Day 77: Sort Characters By Frequency](Week10-11-Recursion_DP/Day77)
 - [Day 78: Find Median from Data Stream](Week10-11-Recursion_DP/Day78)
+- [Day 79: Implement Trie (Prefix Tree)](Week10-11-Recursion_DP/Day79)
 
 
 ## How to Use

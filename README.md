@@ -107,6 +107,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 77: Sort Characters By Frequency](Week10-11-Recursion_DP/Day77)
 - [Day 78: Find Median from Data Stream](Week10-11-Recursion_DP/Day78)
 - [Day 79: Implement Trie (Prefix Tree)](Week10-11-Recursion_DP/Day79)
+- [Day 80: Word Search II](Week10-11-Recursion_DP/Day80)
 
 
 ## How to Use

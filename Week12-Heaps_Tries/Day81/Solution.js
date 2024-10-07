@@ -2,10 +2,6 @@ var WordDictionary = function () {
   this.root = {};
 };
 
-/**
- * @param {string} word
- * @return {void}
- */
 WordDictionary.prototype.addWord = function (word) {
   let node = this.root;
 
@@ -20,10 +16,6 @@ WordDictionary.prototype.addWord = function (word) {
   node.end = true;
 };
 
-/**
- * @param {string} word
- * @return {boolean}
- */
 WordDictionary.prototype.search = function (word) {
   const path = { isFound: false };
   searchHelper(word, 0, this.root, path);

@@ -109,6 +109,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 79: Implement Trie (Prefix Tree)](Week10-11-Recursion_DP/Day79)
 - [Day 80: Word Search II](Week10-11-Recursion_DP/Day80)
 - [Day 81: Design Add and Search Words Data Structure](Week10-11-Recursion_DP/Day81)
+- [Day 82: Replace Words](Week10-11-Recursion_DP/Day82)
 
 
 ## How to Use

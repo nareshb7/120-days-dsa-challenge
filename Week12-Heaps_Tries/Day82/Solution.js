@@ -55,6 +55,12 @@ var replaceWords = function (dictionary, sentence) {
     const word = splitedSentences[i];
     result.push(trie.findWord(word));
   }
-  
+
   return result.join(" ");
 };
+
+const dictionary = ["cat", "bat", "rat"],
+  sentence = "the cattle was rattled by the battery";
+  
+console.log("Relaced Word::", replaceWords(dictionary, sentence));
+// - Output: "the cat was rat by the bat"

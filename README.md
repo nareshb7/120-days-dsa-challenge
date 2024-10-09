@@ -103,13 +103,16 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 75: Word Break](Week10-11-Recursion_DP/Day75)
 
 ### Week12-Heaps_Tries
-- [Day 76: Kth Largest Element in a Stream](Week10-11-Recursion_DP/Day76)
-- [Day 77: Sort Characters By Frequency](Week10-11-Recursion_DP/Day77)
-- [Day 78: Find Median from Data Stream](Week10-11-Recursion_DP/Day78)
-- [Day 79: Implement Trie (Prefix Tree)](Week10-11-Recursion_DP/Day79)
-- [Day 80: Word Search II](Week10-11-Recursion_DP/Day80)
-- [Day 81: Design Add and Search Words Data Structure](Week10-11-Recursion_DP/Day81)
-- [Day 82: Replace Words](Week10-11-Recursion_DP/Day82)
+- [Day 76: Kth Largest Element in a Stream](Week12-Heaps_Tries/Day76)
+- [Day 77: Sort Characters By Frequency](Week12-Heaps_Tries/Day77)
+- [Day 78: Find Median from Data Stream](Week12-Heaps_Tries/Day78)
+- [Day 79: Implement Trie (Prefix Tree)](Week12-Heaps_Tries/Day79)
+- [Day 80: Word Search II](Week12-Heaps_Tries/Day80)
+- [Day 81: Design Add and Search Words Data Structure](Week12-Heaps_Tries/Day81)
+- [Day 82: Replace Words](Week12-Heaps_Tries/Day82)
+
+### Week13-DivideConquer_GreedyAlgorithms
+- [Day 83: Sort an Array](Week13-DivideConquer_GreedyAlogorithms/Day83)
 
 
 ## How to Use

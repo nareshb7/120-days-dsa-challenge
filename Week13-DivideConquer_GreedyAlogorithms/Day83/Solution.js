@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
- function mergeSort(nums, left, right) {
+function mergeSort(nums, left, right) {
   if (left >= right) return;
 
   const mid = Math.floor((left + right) / 2);
@@ -20,30 +20,32 @@ function merge(nums, left, mid, right) {
   const leftArray = new Array(n1);
   const rightArray = new Array(n2);
 
-  for (let i = 0; i < n1; ++i)
-      leftArray[i] = nums[left + i];
-  for (let i = 0; i < n2; ++i)
-      rightArray[i] = nums[mid + 1 + i];
+  for (let i = 0; i < n1; ++i) leftArray[i] = nums[left + i];
+  for (let i = 0; i < n2; ++i) rightArray[i] = nums[mid + 1 + i];
 
   let i = 0, j = 0, k = left;
 
   while (i < n1 && j < n2) {
-      if (leftArray[i] <= rightArray[j]) {
-          nums[k++] = leftArray[i++];
-      } else {
-          nums[k++] = rightArray[j++];
-      }
+    if (leftArray[i] <= rightArray[j]) {
+      nums[k++] = leftArray[i++];
+    } else {
+      nums[k++] = rightArray[j++];
+    }
   }
 
   while (i < n1) {
-      nums[k++] = leftArray[i++];
+    nums[k++] = leftArray[i++];
   }
-
   while (j < n2) {
-      nums[k++] = rightArray[j++];
+    nums[k++] = rightArray[j++];
   }
 }
-var sortArray = function(nums) {
+
+var sortArray = function (nums) {
   mergeSort(nums, 0, nums.length - 1);
-  return nums
+  return nums;
 };
+
+const nums = [5, 2, 3, 1];
+console.log("sorted arr::", sortArray(nums));
+// - Output: [1,2,3,5]

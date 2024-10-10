@@ -1,4 +1,4 @@
-# Notes for Day 83: Sort an Array (Quick Sort)
+# Notes for Day 84: Sort an Array (Quick Sort)
 
 - Quick Sort is a divide-and-conquer algorithm. It works by selecting a "pivot" element from the array, then partitioning the array into two sub-arrays:
 - Elements less than the pivot.

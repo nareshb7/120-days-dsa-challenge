@@ -112,7 +112,8 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 82: Replace Words](Week12-Heaps_Tries/Day82)
 
 ### Week13-DivideConquer_GreedyAlgorithms
-- [Day 83: Sort an Array](Week13-DivideConquer_GreedyAlogorithms/Day83)
+- [Day 83: Sort an Array(Merge Sort)](Week13-DivideConquer_GreedyAlogorithms/Day83)
+- [Day 84: Sort an array (Quick Sort)](Week13-DivideConquer_GreedyAlogorithms/Day84)
 
 
 ## How to Use

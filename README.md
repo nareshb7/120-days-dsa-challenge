@@ -114,6 +114,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 ### Week13-DivideConquer_GreedyAlgorithms
 - [Day 83: Sort an Array(Merge Sort)](Week13-DivideConquer_GreedyAlogorithms/Day83)
 - [Day 84: Sort an array (Quick Sort)](Week13-DivideConquer_GreedyAlogorithms/Day84)
+- [Day 85: Jump Game II](Week13-DivideConquer_GreedyAlogorithms/Day85)
 
 
 ## How to Use

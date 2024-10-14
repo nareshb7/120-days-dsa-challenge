@@ -117,6 +117,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 85: Jump Game II](Week13-DivideConquer_GreedyAlogorithms/Day85)
 - [Day 86: Partition Labels](Week13-DivideConquer_GreedyAlogorithms/Day86)
 - [Day 87: Task Scheduler](Week13-DivideConquer_GreedyAlogorithms/Day87)
+- [Day 88: Sudoku Solver](Week13-DivideConquer_GreedyAlogorithms/Day88)
 
 
 ## How to Use

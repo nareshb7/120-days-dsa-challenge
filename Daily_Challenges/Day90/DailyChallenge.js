@@ -1,7 +1,7 @@
 /**
  * @param {number} n
  * @param {number} k
- * @return {character}
+ * @return {character}///
  */
  var findKthBit = function(n, k) {
     // Base case: When n = 1, the binary string is "0"

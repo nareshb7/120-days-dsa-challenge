@@ -124,6 +124,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 90 - 1545. Find Kth Bit in Nth Binary String](Daily_Challenges/Day90/)
 - [Day 91 - 1593. Split a String Into the Max Number of Unique Substrings](Daily_Challenges/Day91/)
 - [Day 92 - 2583. Kth Largest Sum in a Binary Tree](Daily_Challenges/Day92/)
+- [Day 93 - 2641. Cousins in Binary Tree II](Daily_Challenges/Day93/)
 
 ## How to Use
 

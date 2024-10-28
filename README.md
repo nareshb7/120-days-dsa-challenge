@@ -128,6 +128,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 94 - 951. Flip Equivalent Binary Trees](Daily_Challenges/Day94/)
 - [Day 95 - 1233. Remove Sub-Folders from the Filesystem](Daily_Challenges/Day95/)
 - [Day 96 - 2458. Height of Binary Tree After Subtree Removal Queries](Daily_Challenges/Day96/)
+- [Day 97 - 2501. Longest Square Streak in an Array](Daily_Challenges/Day97/)
 
 ## How to Use
 

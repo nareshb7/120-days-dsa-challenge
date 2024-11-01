@@ -132,6 +132,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 98 - 2684. Maximum Number of Moves in a Grid](Daily_Challenges/Day98/)
 - [Day 99 - 1671. Minimum Number of Removals to Make Mountain Array](Daily_Challenges/Day99/)
 - [Day 100 - 2463. Minimum Total Distance Traveled](Daily_Challenges/Day100/)
+- [Day 101 - 1957. Delete Characters to Make Fancy String](Daily_Challenges/Day101/)
 
 ## How to Use
 

@@ -135,6 +135,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 101 - 1957. Delete Characters to Make Fancy String](Daily_Challenges/Day101/)
 - [Day 102 - 2490. Circular Sentence](Daily_Challenges/Day102/) - 02-11-2024
 - [Day 103 - 796. Rotate String](Daily_Challenges/Day103/) - 03-11-2024
+- [Day 104 - 3163. String Compression III](Daily_Challenges/Day104/) - 04-11-2024
 
 ## How to Use
 

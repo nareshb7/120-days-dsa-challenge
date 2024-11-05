@@ -136,6 +136,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 102 - 2490. Circular Sentence](Daily_Challenges/Day102/) - 02-11-2024
 - [Day 103 - 796. Rotate String](Daily_Challenges/Day103/) - 03-11-2024
 - [Day 104 - 3163. String Compression III](Daily_Challenges/Day104/) - 04-11-2024
+- [Day 105 - 2914. Minimum Number of Changes to Make Binary String Beautiful](Daily_Challenges/Day105/) - 05-11-2024
 
 ## How to Use
 

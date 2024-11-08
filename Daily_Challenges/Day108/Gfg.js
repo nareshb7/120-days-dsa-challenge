@@ -23,11 +23,11 @@ class Solution {
 
 // Minimum repeat to make substring
 
-// Given two strings s1 and s2. Return a minimum number of times s1 has to be repeated such that s2 is a substring of it. 
+// Given two strings s1 and s2. Return a minimum number of times s1 has to be repeated such that s2 is a substring of it.
 // If s2 can never be a substring then return -1.
 
 // Note: Both the strings contain only lowercase letters.
 
 // Input: s1 = "ww", s2 = "www"
 // Output: 2
-// Explanation: Repeating s1 two times (wwww), s2 is a substring of 
+// Explanation: Repeating s1 two times (wwww), s2 is a substring of

@@ -63,7 +63,6 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 41: Implement Queue using Stacks](Week04-06-LinkedList_Stacks/Day41/)
 - [Day 42: Basic Calculator II](Week04-06-LinkedList_Stacks/Day42/)
 
-
 ### Week 07-09 Trees and Graphs
 
 - [Day 43: Maximum Depth of Binary Tree](Week07-09-Trees_Graphs/Day43/)
@@ -89,6 +88,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 63: Word Ladder](Week07-09-Trees_Graphs/Day63)
 
 ### Week 10-11 Recursion and Dynamic Programming
+
 - [Day 64: Climbing Stairs (Recusrion)](Week10-11-Recursion_DP/Day64)
 - [Day 65: Unique Paths](Week10-11-Recursion_DP/Day65)
 - [Day 66: Coin Change](Week10-11-Recursion_DP/Day66)
@@ -103,6 +103,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 75: Word Break](Week10-11-Recursion_DP/Day75)
 
 ### Week12-Heaps_Tries
+
 - [Day 76: Kth Largest Element in a Stream](Week12-Heaps_Tries/Day76)
 - [Day 77: Sort Characters By Frequency](Week12-Heaps_Tries/Day77)
 - [Day 78: Find Median from Data Stream](Week12-Heaps_Tries/Day78)
@@ -112,6 +113,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 82: Replace Words](Week12-Heaps_Tries/Day82)
 
 ### Week13-DivideConquer_GreedyAlgorithms
+
 - [Day 83: Sort an Array(Merge Sort)](Week13-DivideConquer_GreedyAlogorithms/Day83)
 - [Day 84: Sort an array (Quick Sort)](Week13-DivideConquer_GreedyAlogorithms/Day84)
 - [Day 85: Jump Game II](Week13-DivideConquer_GreedyAlogorithms/Day85)
@@ -119,7 +121,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 87: Task Scheduler](Week13-DivideConquer_GreedyAlogorithms/Day87)
 - [Day 88: Sudoku Solver](Week13-DivideConquer_GreedyAlogorithms/Day88)
 
-### Daily Challenges 
+### Daily Challenges
 
 - [Day 90 - 1545. Find Kth Bit in Nth Binary String](Daily_Challenges/Day90/)
 - [Day 91 - 1593. Split a String Into the Max Number of Unique Substrings](Daily_Challenges/Day91/)
@@ -143,6 +145,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 109 - 3133. Minimum Array End](Daily_Challenges/Day109/) - 09-11-2024
 - [Day 110 - 3097. Shortest Subarray With OR at Least K II](Daily_Challenges/Day110/) - 10-11-2024
 - [Day 111 - 2601. Prime Subtraction Operation](Daily_Challenges/Day111/) - 11-11-2024
+- [Day 112 - 2070. Most Beautiful Item for Each Query](Daily_Challenges/Day112/) - 12-11-2024
 
 ## How to Use
 

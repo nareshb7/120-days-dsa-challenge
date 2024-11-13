@@ -146,6 +146,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 110 - 3097. Shortest Subarray With OR at Least K II](Daily_Challenges/Day110/) - 10-11-2024
 - [Day 111 - 2601. Prime Subtraction Operation](Daily_Challenges/Day111/) - 11-11-2024
 - [Day 112 - 2070. Most Beautiful Item for Each Query](Daily_Challenges/Day112/) - 12-11-2024
+- [Day 113 - 2563. Count the Number of Fair Pairs](Daily_Challenges/Day113/) - 13-11-2024
 
 ## How to Use
 

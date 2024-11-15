@@ -148,6 +148,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 112 - 2070. Most Beautiful Item for Each Query](Daily_Challenges/Day112/) - 12-11-2024
 - [Day 113 - 2563. Count the Number of Fair Pairs](Daily_Challenges/Day113/) - 13-11-2024
 - [Day 114 - 2064. Minimized Maximum of Products Distributed to Any Store](Daily_Challenges/Day114/) - 14-11-2024
+- [Day 115 - 1574. Shortest Subarray to be Removed to Make Array Sorted](Daily_Challenges/Day115/) - 15-11-2024
 
 ## How to Use
 

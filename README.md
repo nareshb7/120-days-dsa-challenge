@@ -150,6 +150,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 114 - 2064. Minimized Maximum of Products Distributed to Any Store](Daily_Challenges/Day114/) - 14-11-2024
 - [Day 115 - 1574. Shortest Subarray to be Removed to Make Array Sorted](Daily_Challenges/Day115/) - 15-11-2024
 - [Day 116 - 3254. Find the Power of K-Size Subarrays I](Daily_Challenges/Day116/) - 16-11-2024
+- [Day 117 - 862. Shortest Subarray with Sum at Least K](Daily_Challenges/Day117/) - 17-11-2024
 
 ## How to Use
 

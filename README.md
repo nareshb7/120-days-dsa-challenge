@@ -152,6 +152,7 @@ This repository documents my journey of solving one DSA problem every day for 12
 - [Day 116 - 3254. Find the Power of K-Size Subarrays I](Daily_Challenges/Day116/) - 16-11-2024
 - [Day 117 - 862. Shortest Subarray with Sum at Least K](Daily_Challenges/Day117/) - 17-11-2024
 - [Day 118 - 1652. Defuse the Bomb](Daily_Challenges/Day118/) - 18-11-2024
+- [Day 119 - 2461. Maximum Sum of Distinct Subarrays With Length K](Daily_Challenges/Day119/) - 19-11-2024
 
 ## How to Use
 
